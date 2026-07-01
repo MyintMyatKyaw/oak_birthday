@@ -18,7 +18,7 @@ const translations = {
         startEyebrow: "A little Birthday world for",
         startText:
             "This birthday gift was made only for you. A little website is for your 23rd year.",
-        landscapeNote: "Turn your phone sideways for the prettiest view.",
+
         startBtn: "Open Your Birthday Gift",
 
         heroEyebrow: "Happy 23rd Birthday",
@@ -84,7 +84,7 @@ const translations = {
         startEyebrow: "เว็บวันเกิดเล็ก ๆ สำหรับ",
         startText:
             "ของขวัญวันเกิดชิ้นนี้ทำขึ้นมาเพื่อเทอคนเดียว เป็นเว็บเล็ก ๆ สำหรับปีที่ 23 ของเทอ",
-        landscapeNote: "ลองหมุนโทรศัพท์แนวนอนนะ จะได้เห็นแบบสวยที่สุด",
+
         startBtn: "เปิดของขวัญวันเกิด",
 
         heroEyebrow: "สุขสันต์วันเกิดปีที่ 23 นะ",
