@@ -581,7 +581,7 @@ main {
     border-radius: 48px;
     background:
         linear-gradient(rgba(255, 255, 255, 0.86), rgba(255, 255, 255, 0.86)),
-        url("images/photo4.jpg");
+        url("thumbs/photo4.jpg");
     background-size: cover;
     background-position: center;
     box-shadow: 0 35px 80px rgba(5, 35, 85, 0.26);

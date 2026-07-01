@@ -448,7 +448,12 @@ function createGallery() {
         galleryItem.style.animationDelay = `${i * 0.045}s`;
 
         galleryItem.innerHTML = `
-            <img src="images/photo${i}.jpg" alt="Oak birthday photo ${i}">
+            <img 
+                src="thumbs/photo${i}.jpg" 
+                alt="Oak birthday photo ${i}"
+                loading="lazy"
+                decoding="async"
+            >
             <p>${captions[currentLang][i - 1]}</p>
         `;
 
